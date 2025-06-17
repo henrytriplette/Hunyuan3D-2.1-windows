@@ -29,6 +29,12 @@ pip install py-cpuinfo
 pip install https://files.pythonhosted.org/packages/2e/5c/2058713749655a6b1830ecb8d7db61637a396239610aeb11b59974d29b66/deepspeed-0.15.0-cp311-cp311-win_amd64.whl
 ```
 
+- Need to bump the bpy version from 4.0 to 4.1 in requirements.txt
+
+```sh
+bpy==4.1
+```
+
 - Install requirements
 
 ```sh
